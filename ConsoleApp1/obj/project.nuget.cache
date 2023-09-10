@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J9MKvu7xoGg5UC11/VtiRplbxDGfsbMlpYwCqlyjX4SZymgjAc0K/wgHeWpUu181hVJglxVp2yfhokIKnYpIzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LaGGe\\Desktop\\C#\\ex4\\Kino\\KinoApp\\ConsoleApp1\\app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LaGGe\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

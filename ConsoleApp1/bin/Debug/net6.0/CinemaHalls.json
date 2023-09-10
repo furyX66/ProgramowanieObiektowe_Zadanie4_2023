@@ -1,0 +1,389 @@
+[
+  {
+    "HallNumber": 1,
+    "SeatList": [
+      {
+        "Row": 1,
+        "Number": 1,
+        "IsAvailable": false
+      },
+      {
+        "Row": 1,
+        "Number": 2,
+        "IsAvailable": false
+      },
+      {
+        "Row": 1,
+        "Number": 3,
+        "IsAvailable": false
+      },
+      {
+        "Row": 2,
+        "Number": 1,
+        "IsAvailable": false
+      },
+      {
+        "Row": 2,
+        "Number": 2,
+        "IsAvailable": false
+      }
+    ],
+    "ScreeningTime": "2023-08-24T10:00:00",
+    "Movie": "Back to the future"
+  },
+  {
+    "HallNumber": 2,
+    "SeatList": [
+      {
+        "Row": 1,
+        "Number": 1,
+        "IsAvailable": false
+      },
+      {
+        "Row": 1,
+        "Number": 2,
+        "IsAvailable": false
+      },
+      {
+        "Row": 1,
+        "Number": 3,
+        "IsAvailable": false
+      },
+      {
+        "Row": 2,
+        "Number": 1,
+        "IsAvailable": false
+      },
+      {
+        "Row": 2,
+        "Number": 2,
+        "IsAvailable": true
+      }
+    ],
+    "ScreeningTime": "2023-08-27T03:00:00",
+    "Movie": "Back to the future"
+  },
+  {
+    "HallNumber": 3,
+    "SeatList": [
+      {
+        "Row": 1,
+        "Number": 1,
+        "IsAvailable": false
+      },
+      {
+        "Row": 1,
+        "Number": 2,
+        "IsAvailable": false
+      },
+      {
+        "Row": 1,
+        "Number": 3,
+        "IsAvailable": true
+      },
+      {
+        "Row": 2,
+        "Number": 1,
+        "IsAvailable": true
+      },
+      {
+        "Row": 2,
+        "Number": 2,
+        "IsAvailable": false
+      },
+      {
+        "Row": 3,
+        "Number": 1,
+        "IsAvailable": false
+      },
+      {
+        "Row": 3,
+        "Number": 2,
+        "IsAvailable": false
+      },
+      {
+        "Row": 3,
+        "Number": 3,
+        "IsAvailable": false
+      },
+      {
+        "Row": 4,
+        "Number": 1,
+        "IsAvailable": true
+      },
+      {
+        "Row": 4,
+        "Number": 2,
+        "IsAvailable": true
+      },
+      {
+        "Row": 4,
+        "Number": 3,
+        "IsAvailable": true
+      },
+      {
+        "Row": 5,
+        "Number": 1,
+        "IsAvailable": false
+      },
+      {
+        "Row": 5,
+        "Number": 2,
+        "IsAvailable": true
+      },
+      {
+        "Row": 5,
+        "Number": 3,
+        "IsAvailable": false
+      }
+    ],
+    "ScreeningTime": "2023-08-27T15:45:00",
+    "Movie": "Blade runner"
+  },
+  {
+    "HallNumber": 4,
+    "SeatList": [
+      {
+        "Row": 1,
+        "Number": 1,
+        "IsAvailable": true
+      },
+      {
+        "Row": 1,
+        "Number": 2,
+        "IsAvailable": true
+      },
+      {
+        "Row": 1,
+        "Number": 3,
+        "IsAvailable": false
+      },
+      {
+        "Row": 2,
+        "Number": 1,
+        "IsAvailable": true
+      },
+      {
+        "Row": 2,
+        "Number": 2,
+        "IsAvailable": false
+      },
+      {
+        "Row": 2,
+        "Number": 3,
+        "IsAvailable": true
+      },
+      {
+        "Row": 3,
+        "Number": 1,
+        "IsAvailable": true
+      },
+      {
+        "Row": 3,
+        "Number": 2,
+        "IsAvailable": false
+      },
+      {
+        "Row": 3,
+        "Number": 3,
+        "IsAvailable": true
+      },
+      {
+        "Row": 4,
+        "Number": 1,
+        "IsAvailable": false
+      },
+      {
+        "Row": 4,
+        "Number": 2,
+        "IsAvailable": true
+      },
+      {
+        "Row": 4,
+        "Number": 3,
+        "IsAvailable": false
+      },
+      {
+        "Row": 5,
+        "Number": 1,
+        "IsAvailable": false
+      },
+      {
+        "Row": 5,
+        "Number": 2,
+        "IsAvailable": true
+      },
+      {
+        "Row": 5,
+        "Number": 3,
+        "IsAvailable": true
+      }
+    ],
+    "ScreeningTime": "2023-08-26T06:00:00",
+    "Movie": "Blade runner"
+  },
+  {
+    "HallNumber": 5,
+    "SeatList": [
+      {
+        "Row": 1,
+        "Number": 1,
+        "IsAvailable": false
+      },
+      {
+        "Row": 1,
+        "Number": 2,
+        "IsAvailable": false
+      },
+      {
+        "Row": 1,
+        "Number": 3,
+        "IsAvailable": false
+      },
+      {
+        "Row": 2,
+        "Number": 1,
+        "IsAvailable": false
+      },
+      {
+        "Row": 2,
+        "Number": 2,
+        "IsAvailable": false
+      },
+      {
+        "Row": 2,
+        "Number": 3,
+        "IsAvailable": false
+      },
+      {
+        "Row": 3,
+        "Number": 1,
+        "IsAvailable": false
+      },
+      {
+        "Row": 3,
+        "Number": 2,
+        "IsAvailable": true
+      },
+      {
+        "Row": 3,
+        "Number": 3,
+        "IsAvailable": false
+      },
+      {
+        "Row": 4,
+        "Number": 1,
+        "IsAvailable": true
+      },
+      {
+        "Row": 4,
+        "Number": 2,
+        "IsAvailable": false
+      },
+      {
+        "Row": 4,
+        "Number": 3,
+        "IsAvailable": false
+      },
+      {
+        "Row": 5,
+        "Number": 1,
+        "IsAvailable": false
+      },
+      {
+        "Row": 5,
+        "Number": 2,
+        "IsAvailable": false
+      },
+      {
+        "Row": 5,
+        "Number": 3,
+        "IsAvailable": true
+      }
+    ],
+    "ScreeningTime": "2023-08-27T12:00:00",
+    "Movie": "Ladybug & Cat Noir, the Movie"
+  },
+  {
+    "HallNumber": 6,
+    "SeatList": [
+      {
+        "Row": 1,
+        "Number": 1,
+        "IsAvailable": false
+      },
+      {
+        "Row": 1,
+        "Number": 2,
+        "IsAvailable": false
+      },
+      {
+        "Row": 1,
+        "Number": 3,
+        "IsAvailable": false
+      },
+      {
+        "Row": 2,
+        "Number": 1,
+        "IsAvailable": false
+      },
+      {
+        "Row": 2,
+        "Number": 2,
+        "IsAvailable": false
+      },
+      {
+        "Row": 2,
+        "Number": 3,
+        "IsAvailable": false
+      },
+      {
+        "Row": 3,
+        "Number": 1,
+        "IsAvailable": false
+      },
+      {
+        "Row": 3,
+        "Number": 2,
+        "IsAvailable": true
+      },
+      {
+        "Row": 3,
+        "Number": 3,
+        "IsAvailable": false
+      },
+      {
+        "Row": 4,
+        "Number": 1,
+        "IsAvailable": false
+      },
+      {
+        "Row": 4,
+        "Number": 2,
+        "IsAvailable": true
+      },
+      {
+        "Row": 4,
+        "Number": 3,
+        "IsAvailable": false
+      },
+      {
+        "Row": 5,
+        "Number": 1,
+        "IsAvailable": true
+      },
+      {
+        "Row": 5,
+        "Number": 2,
+        "IsAvailable": false
+      },
+      {
+        "Row": 5,
+        "Number": 3,
+        "IsAvailable": false
+      }
+    ],
+    "ScreeningTime": "2023-08-27T12:45:00",
+    "Movie": "Ladybug & Cat Noir, the Movie"
+  }
+]
